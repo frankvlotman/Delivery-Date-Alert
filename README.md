@@ -1,6 +1,6 @@
 # Delivery-Date-Alert
 
-Automatically sending email notifications when delivery dates are approaching or have passed.
+Automatically sends email notifications when delivery dates are approaching or have passed.
 
 Monitors purchase orders, checking if delivery dates are within the next five days or overdue.
 
